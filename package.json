@@ -1,0 +1,26 @@
+{
+  "name": "3d-object-three.js",
+  "version": "1.0.0",
+  "description": "3D-Object-Three.JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRodriguez00/3D-Object-Three.JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidRodriguez00/3D-Object-Three.JS/issues"
+  },
+  "homepage": "https://github.com/DavidRodriguez00/3D-Object-Three.JS#readme",
+  "dependencies": {
+    "three": "^0.146.0",
+    "vite": "^3.2.4"
+  }
+}
