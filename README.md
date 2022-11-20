@@ -3,7 +3,9 @@
  
  #### Usage
  npm install
+ 
  npm i three
+ 
  npm i vite
  
  npm run dev
